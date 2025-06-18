@@ -6,8 +6,8 @@ How to Login to Peacock TV: A Step-by-Step Guide
    :caption: Contents:
 
 
-.. image:: https://img.freepik.com/premium-vector/login-button_592324-17754.jpg
+.. image:: click-sign-in.png
    :alt: My Project Logo
    :width: 400px
    :align: center
-   :target: https://aclogportal.com/
+   :target: https://aclogportal.com/dashlane-sign-in
